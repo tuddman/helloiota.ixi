@@ -1,0 +1,26 @@
+{
+  "name": "helloiota.ixi",
+  "version": "1.0.0",
+  "description": "the hello world of IOTA IXI modules",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuddman/helloiota.ixi.git"
+  },
+  "keywords": [
+    "iota",
+    "module",
+    "ixi",
+    "tutorial",
+    "full-node"
+  ],
+  "author": "tuddman <scott.tudd@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tuddman/helloiota.ixi/issues"
+  },
+  "homepage": "https://github.com/tuddman/helloiota.ixi#readme"
+}
